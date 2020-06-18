@@ -1,0 +1,6 @@
+# 代理列表
+
+# EFB等需要稳定网络访问的IP或域名
+
+
+DOMAIN-SUFFIX,api.telegram.org
