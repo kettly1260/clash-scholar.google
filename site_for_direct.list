@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,nimte.ml
 DOMAIN-SUFFIX,baobingji.xyz
 DOMAIN-SUFFIX,nimte.cf
 DOMAIN-SUFFIX,google.cn
+IP-CIDR,132.226.170.91/32,no-resolve
