@@ -14,4 +14,5 @@ DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,ziim.top
 DOMAIN-SUFFIX,kkll.eu.org
 DOMAIN-SUFFIX,folo.ml
+DOMAIN-SUFFIX,jimu.ml
 IP-CIDR,132.226.170.91/32,no-resolve
