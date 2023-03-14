@@ -1,3 +1,9 @@
 payload:
 
   - DOMAIN-SUFFIX,masuit.com
+  
+#chatgpt
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
