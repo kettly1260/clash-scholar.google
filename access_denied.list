@@ -4,4 +4,9 @@
 
 
 DOMAIN-SUFFIX,masuit.com
-DOMAIN-SUFFIX,chat.openai.com
+
+#chatgpt
+- DOMAIN,cdn.auth0.com
+- DOMAIN,openaiapi-site.azureedge.net
+- DOMAIN-SUFFIX,ai.com
+- DOMAIN-SUFFIX,openai.com
