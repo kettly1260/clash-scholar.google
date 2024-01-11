@@ -7,3 +7,8 @@ payload:
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
+#edge copilot
+  - DOMAIN,config.edge.skype.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN-SUFFIX,events.data.microsoft.com
+  - DOMAIN,edgeservices.bing.com
